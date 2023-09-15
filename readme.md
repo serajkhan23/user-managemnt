@@ -4,7 +4,7 @@ User management System
     Sprinboot and java
 .Data flow
 
-    Controller:In controller class we make user controller take adduser ,get user byid.
+    Controller:In controller class we make user controller take adduser ,post user.
     BeanFactory :In bean factory we make a bean class and use configuration
     USer services :In user services we write all functionality logic in userservice.
     Repository : In repo class we take Map Integer .
